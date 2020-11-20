@@ -1,0 +1,23 @@
+{
+  "name": "jasmine-testing",
+  "version": "1.0.0",
+  "description": "Testing for Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikkiHmltn/jasmine-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikkiHmltn/jasmine-testing/issues"
+  },
+  "homepage": "https://github.com/NikkiHmltn/jasmine-testing#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
